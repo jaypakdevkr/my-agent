@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("1 페이지")
+st.title("아주대학교 부트캠프")
